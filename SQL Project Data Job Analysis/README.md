@@ -14,6 +14,8 @@ Driven by a quest to navigate the data analyst job market more effectively, this
 4. Which skills are associated with higher salaries?
 5. What are the most optimal skills to learn?
 
+![Data Model](assets/0_data_model.png)
+
 # Tools I Used
 For my deep dive into the data analyst job market, I harnessed the power of several key tools:
 
